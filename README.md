@@ -47,9 +47,3 @@ This project predicts house prices using **regularized linear regression** on th
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
-   cd house-price-prediction
